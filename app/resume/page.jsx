@@ -15,7 +15,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const about = {
   title: "About me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing..",
+    "An overview of professional experiences and significant projects completed.",
   info: [
     {
       fieldName: "Name",
@@ -56,8 +56,7 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My Experience",
-  description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing..",
+  description: "Details on academic achievements and educational background.",
   items: [
     {
       company: "Ademi Bank",
@@ -76,8 +75,7 @@ const experience = {
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My Education",
-  description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing..",
+  description: "A summary of technical proficiencies and key competencies.",
   items: [
     {
       institution: "Technological Institute of Americas (ITLA)",
@@ -106,7 +104,7 @@ const education = {
 const skills = {
   title: "My Skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing..",
+    "An introduction to personal background and professional philosophy.",
   skillList: [
     {
       icon: <FaHtml5 />,

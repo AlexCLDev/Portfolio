@@ -9,28 +9,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat fugit ad architecto.",
+      "Modern and functional websites tailored to specific needs. From informational pages to online stores, ensuring a web presence that is attractive, fast, and secure.",
     href: "",
   },
   {
     num: "02",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat fugit ad architecto.",
+      "Intuitive user interfaces and seamless user experiences are designed with a focus on aesthetics and usability, ensuring customers enjoy every interaction with the product.",
     href: "",
   },
   {
     num: "03",
-    title: "Logo Design",
+    title: "Software Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat fugit ad architecto.",
+      "Custom software solutions are developed to optimize business processes. From mobile apps to complex enterprise systems, ideas are turned into reality with cutting-edge technology.",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat fugit ad architecto.",
+      "Visibility on search engines is enhanced to attract more traffic to the website. Advanced SEO strategies are used to ensure the business stands out in search results.",
     href: "",
   },
 ];
